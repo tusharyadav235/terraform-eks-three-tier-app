@@ -129,11 +129,7 @@ Terraform dependency management
 EKS authentication configuration
 📸 Screenshots
 
-Add screenshots here:
 
-![EKS Cluster](images/eks.png)
-![Grafana Dashboard](images/grafana.png)
-![Terraform Apply](images/terraform.png)
 🛠️ Deployment Steps
 1️⃣ Clone Repository
 git clone https://github.com/tusharyadav235/terraform-eks-three-tier-app.git
